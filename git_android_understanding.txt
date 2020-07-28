@@ -1,0 +1,42 @@
+(1)
+
+Git clone
+
+---Everyone can store github repository into locally system.
+
+(2)
+
+---Owner of project can add Colobarator to work with him project by Manage Access option on github
+
+---Now Colobarator can directly suggest changes to owner of project
+
+(2) If Colobarator and owner both are working with the same project 
+
+----Then Owner will get conflicts and can merge suggested update from local or online
+
+(3) --Fork--
+
+---If there is 10 to 15 people on one project then everyone needs to fork
+
+---Any new user can fork any project on github
+
+---When They fork that entire repository copied in that user's repository
+
+---Then every people need to store that project into local repository by Clone
+
+---Now if they made changes inside the project they can commit and push it
+
+---After that when it is done they need to create Pull request to Owner of project for online update at that time can give message(commit)
+
+(4) After a Pull Request Owner got suggestion for those pull requests on option in github
+ 
+    Now if there is conflict between owner of project and who created pull request for that project	
+
+   Then Owner will click on Resolve conflicts then he will got which places they find conflicts
+
+   Now if owner delete them code and keep pull requester code and done mark resolved
+
+   Now Owner will Click on Commit merge and that pull requester's changes merge on owner's repo..
+
+
+		
